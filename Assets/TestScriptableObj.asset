@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9eb5f803c25dba4fbb86451cbb42d25, type: 3}
+  m_Name: TestScriptableObj
+  m_EditorClassIdentifier: 
+  num1: 100
+  num2: 100.1
+  v2: {x: 3.4, y: 5.6}
+  v3: {x: 1.2, y: 3.4, z: 5.6}
+  quaternion: {x: 0, y: 0, z: 0, w: 0}
+  color1: {r: 0.9433962, g: 0.30704877, b: 0.30704877, a: 0}
+  color2:
+    serializedVersion: 2
+    rgba: 15650350
+  bounds:
+    m_Center: {x: 1, y: 2, z: 3}
+    m_Extent: {x: 4, y: 5, z: 6}
+  rect:
+    serializedVersion: 2
+    x: 1
+    y: 2
+    width: 3
+    height: 4
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  SerializeField: "\u8FD9\u4E2A\u5B57\u6BB5\u4E0D\u4F1A\u88AB\u5E8F\u5217\u5316\u4E3AJson\u5185\u5BB9"

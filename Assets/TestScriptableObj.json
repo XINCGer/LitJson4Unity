@@ -1,0 +1,79 @@
+
+{
+    "name" : "TestScriptableObj",
+    "hideFlags" : 0,
+    "num1"      : 100,
+    "num2"      : 100.1,
+    "v2"        : {
+        "x" : 3.40000009536743,
+        "y" : 5.59999990463257
+    },
+    "v3"        : {
+        "x" : 1.20000004768372,
+        "y" : 3.40000009536743,
+        "z" : 5.59999990463257
+    },
+    "quaternion" : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0,
+        "w" : 0.0
+    },
+    "color1"     : {
+        "r" : 0.943396210670471,
+        "g" : 0.307048767805099,
+        "b" : 0.307048767805099,
+        "a" : 0.0
+    },
+    "color2"     : {
+        "r" : 46,
+        "g" : 206,
+        "b" : 238,
+        "a" : 0
+    },
+    "bounds"     : {
+        "center" : {
+            "x" : 1.0,
+            "y" : 2.0,
+            "z" : 3.0
+        },
+        "size"   : {
+            "x" : 8.0,
+            "y" : 10.0,
+            "z" : 12.0
+        }
+    },
+    "rect"       : {
+        "x" : 1.0,
+        "y" : 2.0,
+        "width" : 3.0,
+        "height" : 4.0
+    },
+    "animationCurve" : {
+        "keys" : [
+            {
+                "time" : 0,
+                "value" : 0,
+                "inTangent" : 2,
+                "outTangent" : 2,
+                "inWeight"   : 0,
+                "outWeight"  : 0,
+                "weightedMode" : 0,
+                "tangentMode"  : 0
+            },
+            {
+                "time" : 1,
+                "value" : 1,
+                "inTangent" : 0,
+                "outTangent" : 0,
+                "inWeight"   : 0,
+                "outWeight"  : 0,
+                "weightedMode" : 0,
+                "tangentMode"  : 0
+            }
+        ],
+        "length" : 2,
+        "preWrapMode" : 8,
+        "postWrapMode" : 8
+    }
+}
