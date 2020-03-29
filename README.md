@@ -10,4 +10,7 @@
 * 支持对输出的Json内容格式化，更规整  
 
 ### 使用方法  
-直接将 **`Plugins/LitJson目录下所有的cs脚本放到你的工程中即可`**。
+直接将 **`Plugins/LitJson目录下所有的cs脚本放到你的工程中即可`**。  
+
+### 博客教程  
+* [【Unity游戏开发】跟着马三一起魔改LitJson](https://www.cnblogs.com/msxh/p/12541159.html)  
